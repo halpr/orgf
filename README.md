@@ -1,2 +1,4 @@
 # orgf
-FIle Organizer CLI
+FIle Organizer script. 
+
+This script will scan the specified external drive for all the file types and then organize them into respective folder.
