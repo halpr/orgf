@@ -5,7 +5,7 @@
 # GitHub: https://github.com/halpr
 # License: MIT
 # Version: 1.0.0
-# Description: File organizer script - the app will scan the specified external drive for all the file types and then organize them into respective folder.
+# Description: File organizer script - the script will scan the specified external drive for all the file types and then organize them into respective folder.
 #
 # Colors for eye candy output
 RED='\033[0;31m'
