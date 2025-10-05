@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Orgf - File Organizer
+# Orgf - File Organizer.
 # Author: Filipe Soares
 # GitHub: https://github.com/halpr
 # License: MIT
